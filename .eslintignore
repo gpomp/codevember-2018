@@ -1,0 +1,7 @@
+static/vendor/
+build/
+release/
+node_modules/
+src/webgl/vendor/
+src/webgl/vendor/*.js
+.git/
